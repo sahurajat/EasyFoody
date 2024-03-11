@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCFsnyZqC5Wgsm5ai07cxTSeGq2ePepnFI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1000420193068</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.easyfoody.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>foody-6247b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foody-6247b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1000420193068:ios:b6bc79f72c4abdb377f289</string>
+</dict>
+</plist>
