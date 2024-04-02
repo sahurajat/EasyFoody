@@ -72,7 +72,8 @@ class GoogleSignInController extends GetxController {
     } catch (e) {
       //in error also we dismiss easyloading bcz if in some error case will ocur then it will not show anything
       EasyLoading.dismiss();
-      print("error $e");
+      // Print the error message
+      print("Error during sign-in: $e");
     }
   }
 }

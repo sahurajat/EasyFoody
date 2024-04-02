@@ -1,4 +1,4 @@
-package com.example.easyfoody
+package com.rajat.traders
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '1000420193068',
     projectId: 'foody-6247b',
     storageBucket: 'foody-6247b.appspot.com',
-    iosBundleId: 'com.example.easyfoody',
+    iosBundleId: 'com.rajat.traders',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
@@ -76,6 +76,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '1000420193068',
     projectId: 'foody-6247b',
     storageBucket: 'foody-6247b.appspot.com',
-    iosBundleId: 'com.example.easyfoody.RunnerTests',
+    iosBundleId: 'com.rajat.traders.RunnerTests',
   );
 }
